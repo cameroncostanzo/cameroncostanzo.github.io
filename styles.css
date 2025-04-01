@@ -44,7 +44,15 @@
     display: inline;
     margin-right: 20px;
   }
-  
+  .about-image {
+    flex: 1;
+}
+
+.about-image img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
   /* Sections */
   section {
     margin-bottom: 40px;
