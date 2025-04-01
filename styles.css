@@ -71,9 +71,9 @@ nav {
 
 /* Hero Section */
 #hero {
-    background-color: #f5f5f5;
+    background-color: #66c1fd;
     padding: 100px 0;
-    text-align: center;
+    text-align: left;
 }
 
 #hero h1 {
@@ -96,7 +96,7 @@ nav {
 
 .about-content {
     display: flex;
-    align-items: center;
+    align-items: left;
     gap: 40px;
     margin-top: 30px;
 }
